@@ -17,7 +17,7 @@
   
   <table width="100%"> 
     <tr>
-      <td width="10%">
+      <td width="100%">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itt-icc&hide=javascript,html,Jupyter Notebook&layout=compact&langs_count=8&theme=algolia">
       </td>
     </tr>
