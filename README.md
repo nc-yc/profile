@@ -5,14 +5,14 @@
   <img src="https://profile-counter.glitch.me/itt-icc/count.svg" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itt-icc&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itt-icc&show_icons=true&theme=highcontrast)
 
 
   
-  <table width="100%"> 
+  <table width="200%"> 
     <tr>
-      <td width="100%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itt-icc&hide=javascript,html,Jupyter Notebook&layout=compact&langs_count=8&theme=algolia">
+      <td width="200%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itt-icc&hide=javascript,html,Jupyter Notebook&layout=compact&langs_count=8&theme=highcontrast">
       </td>
     </tr>
   </table>
