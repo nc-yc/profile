@@ -7,13 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itt-icc&show_icons=true&theme=radical)
 
-  <table width="100%"> 
-    <tr>
-      <td width="100%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itt-icc&hide=javascript,html,Jupyter Notebook&amp;langs_count=8&amp;theme=algolia">
-      </td>
-    </tr>
-  </table>
+
   
   <table width="100%"> 
     <tr>
@@ -35,4 +29,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  <table width="100%"> 
+    <tr>
+      <td width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itt-icc&hide=javascript,html,Jupyter Notebook&amp;langs_count=8&amp;theme=algolia">
+      </td>
+    </tr>
+  </table>
 -->
