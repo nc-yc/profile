@@ -1,5 +1,5 @@
 # Hi there 👋 
-My interest is in micro robot, CV
+My research interest is in motion planning, manipulation, biomimic robot, micro-nano robot(magnetic), robot cv.
 
 <p align="center"> 
   Visitors :<br>
